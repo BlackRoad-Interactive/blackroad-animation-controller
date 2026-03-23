@@ -1,3 +1,11 @@
+# blackroad-animation-controller
+
+> Skeletal and sprite animation controller
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Interactive](https://github.com/BlackRoad-Interactive)
+
+---
+
 # BlackRoad Animation Controller
 
 Skeletal animation system with Forward Kinematics, FABRIK IK, clip blending, and humanoid presets.
